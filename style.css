@@ -1,0 +1,13 @@
+div{
+   background-color: rgb(72, 214, 72);
+   padding: 10px;
+   margin: 20px;
+   width: 500px;
+   text-align: center;
+   text-transform: uppercase;
+   box-shadow: 0 0 30px black;
+   border-radius: 10px;
+}
+p{
+    border: 5px solid blue;
+}

@@ -1,0 +1,16 @@
+#container{
+    display: flex;
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    flex-flow: row wrap;
+}
+
+.Item{
+    background:linear-gradient(35deg, #ff3434, #25f611);
+    text-align:center;
+    color: aqua;
+    width: 300px;
+    border-radius:20px;
+    padding: 20px;
+    margin: 20px;
+}
